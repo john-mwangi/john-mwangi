@@ -1,7 +1,7 @@
 ## Hi there 👋 , I'm John!
-💬 I'm a Data Science & Engineering professional with expertise in Machine Learning and MLOps, specializing in the Financial Services industry. <br>
-🔭 I’m currently working on building scalable and robust data-driven solutions to enable tactical and strategic decision-making. <br>
-👯 I’d like to hear from you if you're looking to collaborate on projects in the areas of Data Science, Data Engineering, Machine Learning, and MLOPs.
+I'm a Data Science & Engineering professional with expertise in Machine Learning and MLOps, specializing in the Financial Services industry. Currently working on building scalable and robust data-driven solutions to enable tactical and strategic decision-making.
+
+I’d like to hear from you if you're looking to collaborate on projects in the areas of Data Science, Data Engineering, Machine Learning, and MLOPs.
 
 ## 💻 Tech Stack
 **SKILL** | **TECHNOLOGY**
