@@ -24,7 +24,12 @@ Visualization | ![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?st
 <!--
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=john-mwangi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
--->
-<!--
+
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-mwangi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=john-mwangi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=john-mwangi&icon=0&color=1)](https://visitcount.itsvg.in)
+
 -->
