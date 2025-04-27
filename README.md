@@ -10,6 +10,7 @@ Some of the notable places and clients I've worked with:-
 <br> 💵 | Payhippo (a Y Combinator fintech);
 <br> 👨‍💻 | KPMG & EY (global leading consulting companies);
 <br> 📈 | Busara (largest behavioral science lab in the Global South);
+<br> ⛑️ | UAP-Old Mutual (oldest insurance company in Africa and largest by turnover);
 
 ## 💻 Tech Stack
 **SKILL** | **TECHNOLOGY**
