@@ -1,8 +1,6 @@
 ## 👋 Hi there, I'm John!
 I'm a Data Science & Engineering professional with expertise in Machine Learning and MLOps, specializing in the Financial Services industry. Currently working on building scalable and robust data-driven solutions to enable tactical and strategic decision-making.
 
-I’d like to hear from you if you're looking to collaborate on projects in the areas of Data Science, Data Engineering, Machine Learning, and MLOPs.
-
 Some of the notable places and clients I've worked with:-
 <br> 🔬 | Alliance Bioversity-CIAT (an international scientific company);
 <br> 📚 | Wikipedia (largest online encyclopedia);
@@ -10,7 +8,9 @@ Some of the notable places and clients I've worked with:-
 <br> 💵 | Payhippo (a Y Combinator fintech);
 <br> 👨‍💻 | KPMG & EY (global leading consulting companies);
 <br> 📈 | Busara (largest behavioral science lab in the Global South);
-<br> ⛑️ | UAP-Old Mutual (oldest insurance company in Africa and largest by turnover);
+<br> ⛑️ | Old Mutual (oldest & largest insurance company in Africa);
+
+I’d like to hear from you if you're looking to collaborate on projects in the areas of Data Science, Data Engineering, Machine Learning, and MLOPs.
 
 ## 💻 Tech Stack
 **SKILL** | **TECHNOLOGY**
