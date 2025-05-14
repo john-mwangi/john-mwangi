@@ -6,9 +6,9 @@ Some of the notable places and clients I've worked with:-
 <br> 📚 | Wikipedia (largest online encyclopedia);
 <br> 💳 | Mastercard (a global payments company);
 <br> 💵 | Payhippo (a Y Combinator fintech);
-<br> 👨‍💻 | KPMG & EY (global leading consulting companies);
-<br> 📈 | Busara (largest behavioral science lab in the Global South);
 <br> ⛑️ | Old Mutual (oldest & largest insurance company in Africa);
+<br> 📈 | Busara (largest behavioral science lab in the Global South);
+<br> 👨‍💻 | KPMG & EY (global leading consulting companies);
 
 I’d like to hear from you if you're looking to collaborate on projects in the areas of Data Science, Data Engineering, Machine Learning, and MLOPs.
 
